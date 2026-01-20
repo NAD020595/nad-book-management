@@ -12,3 +12,4 @@ D:\NAD\Research\nad-book-management\BookManagement\ConsoleApp\obj\Debug\net10.0\
 D:\NAD\Research\nad-book-management\BookManagement\ConsoleApp\obj\Debug\net10.0\ConsoleApp.pdb
 D:\NAD\Research\nad-book-management\BookManagement\ConsoleApp\obj\Debug\net10.0\ConsoleApp.genruntimeconfig.cache
 D:\NAD\Research\nad-book-management\BookManagement\ConsoleApp\obj\Debug\net10.0\ref\ConsoleApp.dll
+D:\NAD\Research\nad-book-management\BookManagement\ConsoleApp\obj\Debug\net10.0\ConsoleApp.sourcelink.json

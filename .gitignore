@@ -1,0 +1,89 @@
+# =============================================
+# Visual Studio / .NET / C# / ASP.NET Core
+# =============================================
+
+# Thư mục .vs rất quan trọng cần ignore (cache, IntelliSense, v.v.)
+.vs/
+.vscode/
+
+# Build output
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+[Aa]rchive/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# NuGet
+packages/
+*.nupkg
+*.snk
+.nuget.props
+.nuget.targets
+
+# Logs và tạm thời
+*.log
+*.tmp
+*.cache
+[Dd]ebug/
+[Rr]elease/
+[Dd]ebugPublic/
+[Rr]eleases/
+
+# ASP.NET / Web specific
+wwwroot/_framework/
+App_Data/
+App_Browsers/
+App_GlobalResources/
+*.Publish.xml
+*.pubxml
+*.azurePubxml
+csx/
+*.build.csdef
+*.publishproj
+*.pubxml.user
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Visual Studio profiler / performance
+*.psess
+*.vsp
+*.vspx
+
+# Entity Framework migrations (nếu không muốn commit migration code)
+# (bỏ comment nếu bạn muốn ignore)
+#Migrations/
+
+# Visual Studio backup / upgrade files
+_UpgradeReport_Files/
+Backup*/
+UpgradeLog*.XML
+UpgradeLog*.htm
+
+# IIS Express
+iisexpress/
+[Dd]ebug[ii]isexpress/
+temp/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# macOS / Linux junk (nếu bạn làm việc cross-platform)
+.DS_Store
+*.swp
+*~
+
+# Rider / JetBrains (nếu có ai dùng)
+.idea/
+*.sln.iml
