@@ -1,0 +1,14 @@
+D:\NAD\Research\nad-book-management\BookManagement\ConsoleApp\bin\Debug\net10.0\ConsoleApp.exe
+D:\NAD\Research\nad-book-management\BookManagement\ConsoleApp\bin\Debug\net10.0\ConsoleApp.deps.json
+D:\NAD\Research\nad-book-management\BookManagement\ConsoleApp\bin\Debug\net10.0\ConsoleApp.runtimeconfig.json
+D:\NAD\Research\nad-book-management\BookManagement\ConsoleApp\bin\Debug\net10.0\ConsoleApp.dll
+D:\NAD\Research\nad-book-management\BookManagement\ConsoleApp\bin\Debug\net10.0\ConsoleApp.pdb
+D:\NAD\Research\nad-book-management\BookManagement\ConsoleApp\obj\Debug\net10.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAD\Research\nad-book-management\BookManagement\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\NAD\Research\nad-book-management\BookManagement\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfo.cs
+D:\NAD\Research\nad-book-management\BookManagement\ConsoleApp\obj\Debug\net10.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\NAD\Research\nad-book-management\BookManagement\ConsoleApp\obj\Debug\net10.0\ConsoleApp.dll
+D:\NAD\Research\nad-book-management\BookManagement\ConsoleApp\obj\Debug\net10.0\refint\ConsoleApp.dll
+D:\NAD\Research\nad-book-management\BookManagement\ConsoleApp\obj\Debug\net10.0\ConsoleApp.pdb
+D:\NAD\Research\nad-book-management\BookManagement\ConsoleApp\obj\Debug\net10.0\ConsoleApp.genruntimeconfig.cache
+D:\NAD\Research\nad-book-management\BookManagement\ConsoleApp\obj\Debug\net10.0\ref\ConsoleApp.dll
