@@ -36,5 +36,14 @@ namespace ConsoleApp.Controllers
             view.Render();
         }
 
+
+        /// <summary>
+        /// kích hoạt chức năng nhập dữ liệu cho 1 cuốn sách
+        /// </summary>
+        public void Create()
+        {
+            BookCreateView view = new BookCreateView();// khởi tạo object
+            view.Render(); // hiển thị ra màn hình
+        }
     }
 }
