@@ -4,6 +4,7 @@ using System.Text;
 
 namespace ConsoleApp.Views
 {
+    using ConsoleApp.Framework;
     using Models; // chú ý cách dùng using bên trong namespace
     /// <summary>
     /// class để hiển thị một cuốn sách
@@ -26,12 +27,12 @@ namespace ConsoleApp.Views
         {
             if (Model == null) // kiếm tra xem có dữ liệu không
             {
-                // sử dụng phương thức WriteLine vừa tạo thay cho đoạn code cũ
-                WriteLine("NO BOOK FOUND. SORRY!", ConsoleColor.Red);
+                // sử dụng phương thức tĩnh WriteLine của lớp ViewHelp
+                ViewHelp.WriteLine("NO BOOK FOUND. SORRY!", ConsoleColor.Red);
                 return; // kết thúc thực hiện phương thức (bỏ qua phần còn lại)
             }
-            // sử dụng phương thức WriteLine vừa tạo thay cho đoạn code cũ
-            WriteLine("BOOK DETAIL INFORMATION", ConsoleColor.Green);
+            // sử dụng phương thức tĩnh WriteLine của lớp ViewHelp
+            ViewHelp.WriteLine("BOOK DETAIL INFORMATION", ConsoleColor.Green);
             /* các dòng dưới đây viết ra thông tin cụ thể theo từng dòng
              * sử dụng cách tạo xâu kiểu "interpolation"
              * và dùng dấu cách để căn chỉnh tạo thẩm mỹ
@@ -48,17 +49,6 @@ namespace ConsoleApp.Views
             Console.WriteLine($"Reading:     {Model.Reading}");
             Console.WriteLine($"File:        {Model.File}");
             Console.WriteLine($"File Name:   {Model.FileName}");
-        }
-        /// <summary>
-        /// in thông báo ra màn hình console với chữ màu
-        /// </summary>
-        /// <param name="message">thông báo</param>
-        /// <param name="color">màu</param>
-        protected void WriteLine(string message, ConsoleColor color)
-        {
-            Console.ForegroundColor = color;
-            Console.WriteLine(message);
-            Console.ResetColor();
         }
     }
 }

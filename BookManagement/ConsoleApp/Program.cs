@@ -1,6 +1,7 @@
 ﻿using ConsoleApp.Controllers;
 
 BookController controller = new BookController();
+
 while (true)
 {
     Console.Write("Request> ");
@@ -12,6 +13,9 @@ while (true)
             break;
         case "create":
             controller.Create();
+            break;
+        case "update":
+            controller.Update(1);
             break;
         default:
             Console.WriteLine("Unknown command");

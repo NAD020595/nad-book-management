@@ -45,5 +45,16 @@ namespace ConsoleApp.Controllers
             BookCreateView view = new BookCreateView();// khởi tạo object
             view.Render(); // hiển thị ra màn hình
         }
+
+        /// <summary>
+        /// kích hoạt chức năng cập nhật
+        /// </summary>
+        /// <param name="id"></param>
+        public void Update(int id)
+        {
+            var model = new Book();
+            var view = new BookUpdateView(model);
+            view.Render();
+        }
     }
 }
