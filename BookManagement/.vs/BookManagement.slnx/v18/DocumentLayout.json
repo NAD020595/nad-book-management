@@ -11,32 +11,12 @@
       "RelativeMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|d:\\nad\\research\\nad-book-management\\bookmanagement\\consoleapp\\views\\booklistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\views\\booklistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|d:\\nad\\research\\nad-book-management\\bookmanagement\\consoleapp\\dataservices\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\dataservices\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|d:\\nad\\research\\nad-book-management\\bookmanagement\\consoleapp\\framework\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\framework\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|d:\\nad\\research\\nad-book-management\\bookmanagement\\consoleapp\\framework\\viewhelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\framework\\viewhelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|d:\\nad\\research\\nad-book-management\\bookmanagement\\consoleapp\\views\\bookupdateview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\views\\bookupdateview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|d:\\nad\\research\\nad-book-management\\bookmanagement\\consoleapp\\views\\bookcreateview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\views\\bookcreateview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|d:\\nad\\research\\nad-book-management\\bookmanagement\\consoleapp\\views\\booksingleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\views\\booksingleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|d:\\nad\\research\\nad-book-management\\bookmanagement\\consoleapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|d:\\nad\\research\\nad-book-management\\bookmanagement\\consoleapp\\dataservices\\simpledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\dataservices\\simpledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 22,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,102 +86,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BookListView.cs",
-              "DocumentMoniker": "D:\\NAD\\Research\\nad-book-management\\BookManagement\\ConsoleApp\\Views\\BookListView.cs",
-              "RelativeDocumentMoniker": "ConsoleApp\\Views\\BookListView.cs",
-              "ToolTip": "D:\\NAD\\Research\\nad-book-management\\BookManagement\\ConsoleApp\\Views\\BookListView.cs",
-              "RelativeToolTip": "ConsoleApp\\Views\\BookListView.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T10:21:56.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Extension.cs",
-              "DocumentMoniker": "D:\\NAD\\Research\\nad-book-management\\BookManagement\\ConsoleApp\\Framework\\Extension.cs",
-              "RelativeDocumentMoniker": "ConsoleApp\\Framework\\Extension.cs",
-              "ToolTip": "D:\\NAD\\Research\\nad-book-management\\BookManagement\\ConsoleApp\\Framework\\Extension.cs",
-              "RelativeToolTip": "ConsoleApp\\Framework\\Extension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T04:52:32.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ViewHelp.cs",
-              "DocumentMoniker": "D:\\NAD\\Research\\nad-book-management\\BookManagement\\ConsoleApp\\Framework\\ViewHelp.cs",
-              "RelativeDocumentMoniker": "ConsoleApp\\Framework\\ViewHelp.cs",
-              "ToolTip": "D:\\NAD\\Research\\nad-book-management\\BookManagement\\ConsoleApp\\Framework\\ViewHelp.cs",
-              "RelativeToolTip": "ConsoleApp\\Framework\\ViewHelp.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAgwH4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T04:42:32.932Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BookUpdateView.cs",
-              "DocumentMoniker": "D:\\NAD\\Research\\nad-book-management\\BookManagement\\ConsoleApp\\Views\\BookUpdateView.cs",
-              "RelativeDocumentMoniker": "ConsoleApp\\Views\\BookUpdateView.cs",
-              "ToolTip": "D:\\NAD\\Research\\nad-book-management\\BookManagement\\ConsoleApp\\Views\\BookUpdateView.cs",
-              "RelativeToolTip": "ConsoleApp\\Views\\BookUpdateView.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T04:41:36.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BookCreateView.cs",
-              "DocumentMoniker": "D:\\NAD\\Research\\nad-book-management\\BookManagement\\ConsoleApp\\Views\\BookCreateView.cs",
-              "RelativeDocumentMoniker": "ConsoleApp\\Views\\BookCreateView.cs",
-              "ToolTip": "D:\\NAD\\Research\\nad-book-management\\BookManagement\\ConsoleApp\\Views\\BookCreateView.cs",
-              "RelativeToolTip": "ConsoleApp\\Views\\BookCreateView.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAmwA8AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T04:36:39.814Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "BookController.cs",
               "DocumentMoniker": "D:\\NAD\\Research\\nad-book-management\\BookManagement\\ConsoleApp\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "ConsoleApp\\Controllers\\BookController.cs",
               "ToolTip": "D:\\NAD\\Research\\nad-book-management\\BookManagement\\ConsoleApp\\Controllers\\BookController.cs",
               "RelativeToolTip": "ConsoleApp\\Controllers\\BookController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T04:33:48.999Z",
+              "WhenOpened": "2026-01-23T10:02:26.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BookSingleView.cs",
-              "DocumentMoniker": "D:\\NAD\\Research\\nad-book-management\\BookManagement\\ConsoleApp\\Views\\BookSingleView.cs",
-              "RelativeDocumentMoniker": "ConsoleApp\\Views\\BookSingleView.cs",
-              "ToolTip": "D:\\NAD\\Research\\nad-book-management\\BookManagement\\ConsoleApp\\Views\\BookSingleView.cs",
-              "RelativeToolTip": "ConsoleApp\\Views\\BookSingleView.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwDQAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\NAD\\Research\\nad-book-management\\BookManagement\\ConsoleApp\\DataServices\\Repository.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\DataServices\\Repository.cs",
+              "ToolTip": "D:\\NAD\\Research\\nad-book-management\\BookManagement\\ConsoleApp\\DataServices\\Repository.cs",
+              "RelativeToolTip": "ConsoleApp\\DataServices\\Repository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwEoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T04:30:53.985Z"
+              "WhenOpened": "2026-01-23T10:01:05.296Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Book.cs",
-              "DocumentMoniker": "D:\\NAD\\Research\\nad-book-management\\BookManagement\\ConsoleApp\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "ConsoleApp\\Models\\Book.cs",
-              "ToolTip": "D:\\NAD\\Research\\nad-book-management\\BookManagement\\ConsoleApp\\Models\\Book.cs",
-              "RelativeToolTip": "ConsoleApp\\Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCMAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "SimpleDataAccess.cs",
+              "DocumentMoniker": "D:\\NAD\\Research\\nad-book-management\\BookManagement\\ConsoleApp\\DataServices\\SimpleDataAccess.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\DataServices\\SimpleDataAccess.cs",
+              "ToolTip": "D:\\NAD\\Research\\nad-book-management\\BookManagement\\ConsoleApp\\DataServices\\SimpleDataAccess.cs",
+              "RelativeToolTip": "ConsoleApp\\DataServices\\SimpleDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T04:15:48.492Z"
+              "WhenOpened": "2026-01-23T09:59:55.403Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -211,7 +131,7 @@
               "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
               "ToolTip": "D:\\NAD\\Research\\nad-book-management\\BookManagement\\ConsoleApp\\Program.cs",
               "RelativeToolTip": "ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-20T04:09:45.368Z",
               "EditorCaption": ""

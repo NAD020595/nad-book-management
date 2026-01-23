@@ -1,6 +1,8 @@
 ﻿using ConsoleApp.Controllers;
+using ConsoleApp.DataServices;
 
-BookController controller = new BookController();
+SimpleDataAccess context = new SimpleDataAccess();
+BookController controller = new BookController(context);
 
 while (true)
 {
